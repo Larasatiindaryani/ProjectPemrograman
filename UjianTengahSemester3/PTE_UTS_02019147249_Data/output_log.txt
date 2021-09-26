@@ -1,0 +1,74 @@
+Initialize engine version: 5.6.7f1 (e80cc3114ac1)
+GfxDevice: creating device client; threaded=1
+d3d11: D3D_FEATURE_LEVEL_11_1 not-recognized (only 11.0 runtime installed?)
+Direct3D:
+    Version:  Direct3D 11.0 [level 10.1]
+    Renderer: Intel(R) HD Graphics Family (ID=0x106)
+    Vendor:   Intel
+    VRAM:     473 MB
+    Driver:   8.15.10.2345
+Begin MonoManager ReloadAssembly
+Platform assembly: E:\ProgrammingGame\UjianTengahSemester3\PTE_UTS_02019147249_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading E:\ProgrammingGame\UjianTengahSemester3\PTE_UTS_02019147249_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: E:\ProgrammingGame\UjianTengahSemester3\PTE_UTS_02019147249_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading E:\ProgrammingGame\UjianTengahSemester3\PTE_UTS_02019147249_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: E:\ProgrammingGame\UjianTengahSemester3\PTE_UTS_02019147249_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading E:\ProgrammingGame\UjianTengahSemester3\PTE_UTS_02019147249_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: E:\ProgrammingGame\UjianTengahSemester3\PTE_UTS_02019147249_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading E:\ProgrammingGame\UjianTengahSemester3\PTE_UTS_02019147249_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+- Completed reload, in  0.040 seconds
+Platform assembly: E:\ProgrammingGame\UjianTengahSemester3\PTE_UTS_02019147249_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: E:\ProgrammingGame\UjianTengahSemester3\PTE_UTS_02019147249_Data\Managed\System.dll (this message is harmless)
+desktop: 1366x768 60Hz; virtual: 1366x768 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 4.049283 ms
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 61.222633 ms
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 351.
+Total: 0.603466 ms (FindLiveObjects: 0.070301 ms CreateObjectMapping: 0.057473 ms MarkObjects: 0.435666 ms  DeleteObjects: 0.036946 ms)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at UIManager.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.119697 ms
+
+Unloading 2 unused Assets to reduce memory usage. Loaded Objects now: 350.
+Total: 0.626045 ms (FindLiveObjects: 0.065170 ms CreateObjectMapping: 0.059012 ms MarkObjects: 0.483902 ms  DeleteObjects: 0.013341 ms)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.288011 ms
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 309.
+Total: 0.771780 ms (FindLiveObjects: 0.063117 ms CreateObjectMapping: 0.056446 ms MarkObjects: 0.603466 ms  DeleteObjects: 0.045670 ms)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.755493 ms
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 351.
+Total: 0.610137 ms (FindLiveObjects: 0.066709 ms CreateObjectMapping: 0.054907 ms MarkObjects: 0.447468 ms  DeleteObjects: 0.037460 ms)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at UIManager.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 2.129581 ms
+
+Unloading 2 unused Assets to reduce memory usage. Loaded Objects now: 350.
+Total: 0.621940 ms (FindLiveObjects: 0.065683 ms CreateObjectMapping: 0.055420 ms MarkObjects: 0.479284 ms  DeleteObjects: 0.018473 ms)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.176144 ms
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 309.
+Total: 0.791793 ms (FindLiveObjects: 0.056959 ms CreateObjectMapping: 0.055420 ms MarkObjects: 0.627585 ms  DeleteObjects: 0.047723 ms)
+
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: 524 -> priority: 1 
